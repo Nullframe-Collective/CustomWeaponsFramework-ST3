@@ -1,4 +1,4 @@
-# CustomWeaponFramework
+# CustomWeaponsFramework
 
 Custom weapons for NullServers.
 
